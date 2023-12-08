@@ -2,7 +2,7 @@
 
 ## Shifts in the functional capacity and metabolite composition of the gut microbiome during recovery from enteric infection 
 
-### Zoe A. Hansen*, Anthony Schilmiller, Doug Guzior, James T. Rudrik, Robert Quinn, Karla A. Vasco, and Shannon D. Manning* 
+### Zoe A. Hansen*, Anthony L. Schilmiller, Douglas V. Guzior, James T. Rudrik, Robert A. Quinn, Karla A. Vasco, and Shannon D. Manning* 
 
 #### *Correspondence:  
 #### Corresponding Authors 
