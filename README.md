@@ -1,4 +1,4 @@
-# PAPER_Frontiers_Cellular_and_Molecular_Microbiology_2024
+# PAPER_Frontiers_Cellular_and_Molecular_Micro_2024
 
 ## Shifts in the functional capacity and metabolite composition of the gut microbiome during recovery from enteric infection 
 
