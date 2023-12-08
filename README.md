@@ -2,12 +2,7 @@
 
 ## Shifts in the functional capacity and metabolite composition of the gut microbiome during recovery from enteric infection 
 
-### Zoe A. Hansen1*†, Anthony Schilmiller2, Doug Guzior1,3, James T. Rudrik4, Robert Quinn3, Karla A. Vasco1‡, and Shannon D. Manning1* 
-
-#### 1Department of Microbiology and Molecular Genetics, Michigan State University, E. Lansing, MI 48109, USA 
-#### 2Research Technology Support Facility, Mass Spectrometry and Metabolomics Core, Michigan State University, E. Lansing, MI 48109, USA 
-#### 3Department of Biochemistry and Molecular Biology, Michigan State University, E. Lansing, MI 48109, USA 
-#### 4Michigan Department of Health and Human Services, Bureau of Laboratories, Lansing, MI 48906, USA 
+### Zoe A. Hansen*, Anthony Schilmiller, Doug Guzior, James T. Rudrik, Robert Quinn, Karla A. Vasco, and Shannon D. Manning* 
 
 #### *Correspondence:  
 #### Corresponding Authors 
